@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidLessonThree</string>
+    <string name="placeholder_input">Placeholder for input</string>
+</resources>
